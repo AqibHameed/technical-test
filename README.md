@@ -1,7 +1,7 @@
 # Instruction
-Intall the gem the help of following compand
-     $ bundle install
+Intall the gem the help of following command <br />
+    ** $ bundle install **
 
-After that run the rspec test cases
-     $ bundle exec rspec
+After that run the rspec test cases <br />
+    ** $ bundle exec rspec **
 
